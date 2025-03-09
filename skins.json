@@ -14,6 +14,27 @@
       "type": "free"
     },
     {
+      "localization_name": "skin20",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "hatune.png",
+      "type": "free"
+    },{
+      "localization_name": "skin21",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ika_sannkaku.png",
+      "type": "free"
+    },{
+      "localization_name": "skin22",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ika_sikaku.png",
+      "type": "free"
+    },{
+      "localization_name": "skin23",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ika_maru.png",
+      "type": "free"
+    },
+    {
       "localization_name": "skin3",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "759542.png",
