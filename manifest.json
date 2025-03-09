@@ -2,7 +2,7 @@
   "header": {
     "name": "Fortnite ",
     "description": "Fortnite ",
-    "uuid": "3bc48e84-69e5-46d7-806b-1d7e9f7412fe",
+    "uuid": "15a4abe1-bc17-f1db-2d0f-689c43072f2e",
     "version": [
       1,
       0,
@@ -12,7 +12,7 @@
   "modules": [
     {
       "type": "skin_pack",
-      "uuid": "ce996db3-e967-4c6c-93db-66def33cfa4a",
+      "uuid": "e4de34ad-6db3-f7b5-f0c6-4e563d3f51d8",
       "version": [
         1,
         0,
